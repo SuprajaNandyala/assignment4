@@ -1,0 +1,14 @@
+#td {
+    text-align: center;
+    /* border: 2px solid black;
+    border-width: 2px 0px 0px 0px */
+}
+
+tr {
+    background-color: rgb(194, 192, 189);
+}
+
+tr :hover {
+    background-color: rgb(138, 125, 108);
+    ;
+}
